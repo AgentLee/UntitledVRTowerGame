@@ -2120,3 +2120,147 @@ LogInit: Object subsystem initialized
 [2018.01.20-19.30.22:855][621]LogSavePackage: Save=85.64ms
 [2018.01.20-19.30.22:855][621]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/cakeD66830E84AF0056732C23B97F3B4551E.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/Materials/cake.uasset'
 [2018.01.20-19.30.22:861][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/Materials/cake.uasset
+[2018.01.20-19.40.19:771][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/VR_Test' took 0.035
+[2018.01.20-19.43.34:999][ 60]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-19.50.20:340][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/VR_Test' took 0.051
+[2018.01.20-20.00.26:427][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/VR_Test' took 0.062
+[2018.01.20-20.06.12:493][ 69]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.06.13:137][122]Cmd: EDIT COPY
+[2018.01.20-20.06.13:371][141]Cmd: EDIT PASTE
+[2018.01.20-20.06.26:018][192]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.06.26:039][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.26:039][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.06.26:040][192]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:06:26 AM)
+[2018.01.20-20.06.26:040][192]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.06.26:047][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007539s)
+[2018.01.20-20.06.26:048][192]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.06.26:048][192]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.01.20-20.06.26:048][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.008744s)
+[2018.01.20-20.06.26:104][192]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.06.26:131][192]LogInit: FAudioDevice initialized.
+[2018.01.20-20.06.26:170][192]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.06.26:170][192]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.06.26:172][192]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.06.26
+[2018.01.20-20.06.26:172][192]LogWorld: Bringing up level for play took: 0.001598
+[2018.01.20-20.06.26:172][192]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.06.26:176][192]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test 0.122
+[2018.01.20-20.06.26:185][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.28:729][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.28:764][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.30:754][561]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.06.35:421][950]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.06.35:434][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.35:434][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.06.35:435][950]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:06:35 AM)
+[2018.01.20-20.06.35:435][950]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.06.35:441][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005886s)
+[2018.01.20-20.06.35:441][950]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.06.35:441][950]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.01.20-20.06.35:442][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.006974s)
+[2018.01.20-20.06.35:486][950]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.06.35:508][950]LogInit: FAudioDevice initialized.
+[2018.01.20-20.06.35:546][950]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.06.35:546][950]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.06.35:548][950]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.06.35
+[2018.01.20-20.06.35:548][950]LogWorld: Bringing up level for play took: 0.001591
+[2018.01.20-20.06.35:548][950]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.06.35:551][950]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.502
+[2018.01.20-20.06.35:560][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.40:203][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.40:240][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.42:803][520]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.06.48:132][956]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.06.48:150][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.48:150][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.06.48:151][956]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:06:48 AM)
+[2018.01.20-20.06.48:151][956]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.06.48:157][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006036s)
+[2018.01.20-20.06.48:158][956]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.06.48:158][956]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.01.20-20.06.48:158][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.007186s)
+[2018.01.20-20.06.48:202][956]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.06.48:225][956]LogInit: FAudioDevice initialized.
+[2018.01.20-20.06.48:262][956]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.06.48:262][956]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.06.48:264][956]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.06.48
+[2018.01.20-20.06.48:264][956]LogWorld: Bringing up level for play took: 0.001416
+[2018.01.20-20.06.48:264][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.06.48:267][956]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test 0.214
+[2018.01.20-20.06.48:276][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.53:550][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.53:590][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.54:457][455]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.06.59:695][891]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.06.59:714][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.06.59:715][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.06.59:715][891]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:06:59 AM)
+[2018.01.20-20.06.59:715][891]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.06.59:721][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005698s)
+[2018.01.20-20.06.59:721][891]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.06.59:721][891]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.01.20-20.06.59:721][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.006580s)
+[2018.01.20-20.06.59:766][891]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.06.59:788][891]LogInit: FAudioDevice initialized.
+[2018.01.20-20.06.59:820][891]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.06.59:820][891]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.06.59:822][891]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.06.59
+[2018.01.20-20.06.59:822][891]LogWorld: Bringing up level for play took: 0.001720
+[2018.01.20-20.06.59:823][891]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.06.59:826][891]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.228
+[2018.01.20-20.06.59:834][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.02:178][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.02:217][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.04:029][244]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.07.13:384][ 25]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.07.13:403][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.13:404][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.07.13:404][ 25]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:07:13 AM)
+[2018.01.20-20.07.13:404][ 25]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.07.13:410][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005684s)
+[2018.01.20-20.07.13:410][ 25]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.07.13:410][ 25]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.01.20-20.07.13:411][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.006767s)
+[2018.01.20-20.07.13:455][ 25]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.07.13:477][ 25]LogInit: FAudioDevice initialized.
+[2018.01.20-20.07.13:514][ 25]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.07.13:514][ 25]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.07.13:516][ 25]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.07.13
+[2018.01.20-20.07.13:516][ 25]LogWorld: Bringing up level for play took: 0.001350
+[2018.01.20-20.07.13:516][ 25]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.07.13:519][ 25]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.534
+[2018.01.20-20.07.13:528][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.25:032][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.25:066][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.26:601][186]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.07.28:154][309]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.07.31:883][618]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.07.31:900][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.31:901][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.07.31:901][618]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:07:31 AM)
+[2018.01.20-20.07.31:901][618]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.07.31:906][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005523s)
+[2018.01.20-20.07.31:907][618]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.07.31:907][618]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.01.20-20.07.31:907][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.006532s)
+[2018.01.20-20.07.31:951][618]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.07.31:973][618]LogInit: FAudioDevice initialized.
+[2018.01.20-20.07.32:009][618]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.07.32:009][618]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.07.32:011][618]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.07.32
+[2018.01.20-20.07.32:011][618]LogWorld: Bringing up level for play took: 0.001360
+[2018.01.20-20.07.32:012][618]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.07.32:014][618]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.039
+[2018.01.20-20.07.32:023][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.36:876][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.36:911][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.07.42:138][583]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon2)
+[2018.01.20-20.07.42:848][642]Cmd: DELETE
+[2018.01.20-20.07.42:848][642]Cmd: ACTOR DELETE
+[2018.01.20-20.07.42:850][642]LogEditorActor: Deleted Actor: Canon_C
+[2018.01.20-20.07.42:873][642]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.01.20-20.07.44:651][803]LogSavePackage: Save=164.79ms
+[2018.01.20-20.07.44:651][803]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_Test25B51B314AB2899D48FBBD9620C67C11.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap'
+[2018.01.20-20.07.44:661][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap
+[2018.01.20-20.07.44:889][803]LogSavePackage: Save=181.10ms
+[2018.01.20-20.07.44:889][803]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_Test_BuiltDataB7E70C254B0D6C0A7C0E43A898F24513.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset'
+[2018.01.20-20.07.44:893][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset
