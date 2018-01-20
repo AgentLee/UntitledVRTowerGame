@@ -1,0 +1,1153 @@
+﻿Log file open, 01/20/18 15:19:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1989923482) SRandInit(-1989923482).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185036
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.20-20.19.02:762][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.20-20.19.02:762][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.20-20.19.02:783][  0]LogInit: Computer: SIGLAB-VR3
+[2018.01.20-20.19.02:783][  0]LogInit: User: SIG
+[2018.01.20-20.19.02:783][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.20-20.19.02:783][  0]LogInit: High frequency timer resolution =3.604935 MHz
+[2018.01.20-20.19.02:784][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.01.20-20.19.02:784][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.20-20.19.02:784][  0]LogMemory: Process Physical Memory: 280.46 MB used, 280.46 MB peak
+[2018.01.20-20.19.02:784][  0]LogMemory: Process Virtual Memory: 269.12 MB used, 269.12 MB peak
+[2018.01.20-20.19.02:784][  0]LogMemory: Physical Memory: 6203.96 MB used,  26486.44 MB free, 32690.40 MB total
+[2018.01.20-20.19.02:784][  0]LogMemory: Virtual Memory: 723.34 MB used,  26486.44 MB free, 134217728.00 MB total
+[2018.01.20-20.19.03:100][  0]LogInit: Using OS detected language (en-US).
+[2018.01.20-20.19.03:100][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.20-20.19.03:166][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.20-20.19.03:658][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.20-20.19.06:397][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.20-20.19.06:441][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.01.20-20.19.06:441][  0]LogD3D11RHI:       8096/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.20-20.19.06:444][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.20-20.19.06:444][  0]LogD3D11RHI:       0/0/16345 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.20-20.19.06:444][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.20-20.19.06:452][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.20-20.19.06:452][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.20-20.19.06:452][  0]LogWindows: EnumDisplayDevices:
+[2018.01.20-20.19.06:452][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.01.20-20.19.06:453][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.01.20-20.19.06:453][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.20-20.19.06:453][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.20-20.19.06:453][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.20-20.19.06:453][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.01.20-20.19.06:453][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.20-20.19.06:453][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.20-20.19.06:453][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.01.20-20.19.06:483][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.20-20.19.06:496][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.20-20.19.06:585][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Intermediate/Shaders/WorkingDirectory/12440/).
+[2018.01.20-20.19.06:585][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SIG/AppData/Local/Temp/UnrealShaderWorkingDir/C4B947854681619D69E070B4C0C820DF/'.
+[2018.01.20-20.19.06:585][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.20-20.19.08:603][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.20-20.19.08:663][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.20-20.19.08:727][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.20-20.19.08:791][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.20-20.19.08:857][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.20-20.19.08:921][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.20-20.19.08:983][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.20-20.19.09:045][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.20-20.19.09:099][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.20-20.19.09:164][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.20-20.19.09:228][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.20-20.19.09:290][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.20-20.19.09:351][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.20-20.19.09:407][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.20-20.19.09:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.20-20.19.09:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.20-20.19.09:606][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.20-20.19.09:656][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.20-20.19.09:763][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.20-20.19.09:795][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.20-20.19.09:856][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.20-20.19.09:920][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.20-20.19.09:985][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.20-20.19.10:049][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.20-20.19.10:049][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.20-20.19.10:610][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: Loaded boot cache 0.09s 79MB C:/Users/SIG/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SIG/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.20-20.19.10:702][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.20-20.19.10:725][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.20-20.19.10:737][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SIG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.20-20.19.10:748][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.20-20.19.10:748][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.20-20.19.10:762][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.20-20.19.10:762][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.20-20.19.11:384][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.20-20.19.11:819][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.20-20.19.11:868][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.20-20.19.11:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.20-20.19.11:868][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.20-20.19.11:868][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.20-20.19.11:868][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.20-20.19.11:903][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2018.01.20-20.19.12:100][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.01.20-20.19.12:721][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.095235 seconds
+[2018.01.20-20.19.12:732][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.20-20.19.12:732][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.01.20-20.19.12:732][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.20-20.19.12:803][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.20-20.19.17:719][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.20-20.19.17:767][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.20-20.19.18:583][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.20-20.19.19:089][  0]SourceControl: Source control is disabled
+[2018.01.20-20.19.19:089][  0]SourceControl: Source control is disabled
+[2018.01.20-20.19.19:156][  0]SourceControl: Source control is disabled
+[2018.01.20-20.19.19:221][  0]SourceControl: Source control is disabled
+[2018.01.20-20.19.20:215][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.20-20.19.20:539][  0]LogOcInput: OculusInput pre-init called
+[2018.01.20-20.19.20:876][  0]LogEngine: Initializing Engine...
+[2018.01.20-20.19.21:452][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-C1E31766
+[2018.01.20-20.19.21:700][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.20-20.19.21:700][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.20-20.19.21:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.20-20.19.21:861][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.19.21:887][  0]LogInit: FAudioDevice initialized.
+[2018.01.20-20.19.21:968][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/SIG/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.20-20.19.21:979][  0]LogInit: Texture streaming: Enabled
+[2018.01.20-20.19.22:079][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.20-20.19.22:223][  0]LogInit: Transaction tracking system initialized
+[2018.01.20-20.19.22:555][  0]BlueprintLog: New page: Editor Load
+[2018.01.20-20.19.23:492][  0]LocalizationService: Localization service is disabled
+[2018.01.20-20.19.24:282][  0]LogConsoleResponse: Display: 
+[2018.01.20-20.19.24:472][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.20-20.19.24:472][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.20-20.19.24:472][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.20-20.19.25:147][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/' took 0.01s
+[2018.01.20-20.19.25:723][  0]SourceControl: Source control is disabled
+[2018.01.20-20.19.25:723][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.19.25:723][  0]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.25:767][  0]MapCheck: New page: Map Check
+[2018.01.20-20.19.25:767][  0]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.25:908][  0]LogMaterial: Missing cached shader map for material Brown, compiling. 
+[2018.01.20-20.19.25:962][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.19.25:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.19.25:988][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.19.26:062][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.888ms to complete.
+[2018.01.20-20.19.26:062][  0]LogFileHelpers: Loading map 'StartupMap' took 0.339
+[2018.01.20-20.19.26:258][  0]LogCollectionManager: Loaded 0 collections in 0.002507 seconds
+[2018.01.20-20.19.26:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/Collections/' took 0.01s
+[2018.01.20-20.19.26:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/Developers/SIG/Collections/' took 0.01s
+[2018.01.20-20.19.26:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/Collections/' took 0.01s
+[2018.01.20-20.19.26:369][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.20-20.19.26:380][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2363 classes and 519 folders.
+[2018.01.20-20.19.26:492][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.20-20.19.26:545][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.20-20.19.26:616][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.20-20.19.26:640][  0]LogSlate: Took 0.000626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.20-20.19.26:643][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.20-20.19.26:653][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.20-20.19.26:774][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 26 NumSamples 1 (Frame:1).
+[2018.01.20-20.19.26:977][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.20-20.19.26:977][  0]LogLoad: (Engine Initialization) Total time: 28.52 seconds
+[2018.01.20-20.19.26:977][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.20-20.19.26:977][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.20-20.19.26:977][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.20-20.19.27:019][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.20-20.19.27:071][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-20.19.27:079][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/' took 0.08s
+[2018.01.20-20.19.27:100][  1]LogAssetRegistry: Asset discovery search completed in 15.0219 seconds
+[2018.01.20-20.19.27:103][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.20-20.19.27:103][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2018.01.20-20.19.28:018][ 97]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-20.19.37:842][249]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.20-20.19.38:309][249]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.19.38:332][249]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.19.38:332][249]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.38:333][249]LoadErrors: New page: Loading map: VR_Test.umap
+[2018.01.20-20.19.38:333][249]MapCheck: New page: Map Check
+[2018.01.20-20.19.38:333][249]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.38:349][249]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.19.38:385][249]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.19.38:447][249]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.772ms to complete.
+[2018.01.20-20.19.38:447][249]LogFileHelpers: Loading map 'VR_Test' took 0.117
+[2018.01.20-20.19.40:352][472]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.19.40:400][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.19.40:400][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.19.40:401][472]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:19:40 AM)
+[2018.01.20-20.19.40:401][472]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.19.40:407][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005833s)
+[2018.01.20-20.19.40:407][472]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.19.40:407][472]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2018.01.20-20.19.40:407][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.006762s)
+[2018.01.20-20.19.40:439][472]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.19.40:459][472]LogInit: FAudioDevice initialized.
+[2018.01.20-20.19.40:503][472]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.19.40:503][472]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.19.40:505][472]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.19.40
+[2018.01.20-20.19.40:506][472]LogWorld: Bringing up level for play took: 0.001599
+[2018.01.20-20.19.40:506][472]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.19.40:563][472]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.20-20.19.40:567][472]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test 0.513
+[2018.01.20-20.19.40:574][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.19.42:307][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.19.42:341][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.19.44:849][962]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.01.20-20.19.44:867][962]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.19.44:867][962]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.44:868][962]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.01.20-20.19.44:869][962]MapCheck: New page: Map Check
+[2018.01.20-20.19.44:869][962]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.44:887][962]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.19.44:925][962]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.19.44:988][962]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.815ms to complete.
+[2018.01.20-20.19.44:988][962]LogFileHelpers: Loading map 'MotionControllerMap' took 0.122
+[2018.01.20-20.19.46:531][138]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.19.46:551][138]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.19.46:551][138]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.46:552][138]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.01.20-20.19.46:553][138]MapCheck: New page: Map Check
+[2018.01.20-20.19.46:553][138]LightingResults: New page: Lighting Build
+[2018.01.20-20.19.46:576][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.19.46:614][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.19.46:673][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.731ms to complete.
+[2018.01.20-20.19.46:674][138]LogFileHelpers: Loading map 'StartupMap' took 0.123
+[2018.01.20-20.19.49:691][492]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.19.49:707][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.19.49:707][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.19.49:707][492]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:19:49 AM)
+[2018.01.20-20.19.49:707][492]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.19.49:714][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006302s)
+[2018.01.20-20.19.49:714][492]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.19.49:714][492]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.01.20-20.19.49:715][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007197s)
+[2018.01.20-20.19.49:748][492]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.19.49:769][492]LogInit: FAudioDevice initialized.
+[2018.01.20-20.19.49:801][492]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.19.49:801][492]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.19.49:804][492]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.19.49
+[2018.01.20-20.19.49:805][492]LogWorld: Bringing up level for play took: 0.002829
+[2018.01.20-20.19.49:805][492]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.19.49:806][492]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.248
+[2018.01.20-20.19.49:809][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.19.49:810][492]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:824][493]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:835][494]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:843][495]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:852][496]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:860][497]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:868][498]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:877][499]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:885][500]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.49:893][501]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.19.52:079][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.19.52:112][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.19.59:289][587]Cmd: TRANSACTION UNDO
+[2018.01.20-20.19.59:289][587]LogEditorTransaction: Undo Move Actors
+[2018.01.20-20.19.59:651][618]Cmd: TRANSACTION UNDO
+[2018.01.20-20.19.59:651][618]LogEditorTransaction: Undo Create Actors
+[2018.01.20-20.20.02:999][  5]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.20.03:016][  5]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.20.03:016][  5]LightingResults: New page: Lighting Build
+[2018.01.20-20.20.03:017][  5]LoadErrors: New page: Loading map: VR_Test.umap
+[2018.01.20-20.20.03:018][  5]MapCheck: New page: Map Check
+[2018.01.20-20.20.03:018][  5]LightingResults: New page: Lighting Build
+[2018.01.20-20.20.03:032][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.20.03:072][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.20.03:134][  5]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.168ms to complete.
+[2018.01.20-20.20.03:134][  5]LogFileHelpers: Loading map 'VR_Test' took 0.119
+[2018.01.20-20.20.04:113][119]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.20.04:402][149]Cmd: EDIT COPY
+[2018.01.20-20.20.04:622][174]Cmd: EDIT COPY
+[2018.01.20-20.20.04:791][193]Cmd: EDIT COPY
+[2018.01.20-20.20.04:956][211]Cmd: EDIT COPY
+[2018.01.20-20.20.07:448][479]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.20.07:467][479]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.20.07:468][479]LightingResults: New page: Lighting Build
+[2018.01.20-20.20.07:468][479]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.01.20-20.20.07:469][479]MapCheck: New page: Map Check
+[2018.01.20-20.20.07:469][479]LightingResults: New page: Lighting Build
+[2018.01.20-20.20.07:490][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.20.07:527][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.20.07:586][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.784ms to complete.
+[2018.01.20-20.20.07:586][479]LogFileHelpers: Loading map 'StartupMap' took 0.120
+[2018.01.20-20.20.08:056][532]LogEditorViewport: Clicking Background
+[2018.01.20-20.20.08:209][550]Cmd: EDIT PASTE
+[2018.01.20-20.20.30:738][135]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.20.30:755][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.30:755][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.20.30:755][135]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:20:30 AM)
+[2018.01.20-20.20.30:755][135]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.20.30:761][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006234s)
+[2018.01.20-20.20.30:762][135]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.20.30:762][135]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.01.20-20.20.30:762][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007150s)
+[2018.01.20-20.20.30:796][135]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.20.30:816][135]LogInit: FAudioDevice initialized.
+[2018.01.20-20.20.30:848][135]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.20.30:848][135]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.20.30:851][135]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.20.30
+[2018.01.20-20.20.30:852][135]LogWorld: Bringing up level for play took: 0.002449
+[2018.01.20-20.20.30:852][135]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.20.30:852][135]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.799
+[2018.01.20-20.20.30:861][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.30:862][135]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:890][136]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:904][137]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:919][138]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:933][139]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:946][140]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:959][141]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:972][142]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.30:987][143]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.31:000][144]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.34:451][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.34:481][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.35:830][627]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.20.39:536][ 54]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.20.39:551][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.39:552][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.20.39:552][ 54]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:20:39 AM)
+[2018.01.20-20.20.39:552][ 54]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.20.39:558][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006526s)
+[2018.01.20-20.20.39:559][ 54]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.20.39:559][ 54]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2018.01.20-20.20.39:559][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007375s)
+[2018.01.20-20.20.39:594][ 54]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.20.39:614][ 54]LogInit: FAudioDevice initialized.
+[2018.01.20-20.20.39:648][ 54]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.20.39:648][ 54]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.20.39:651][ 54]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.20.39
+[2018.01.20-20.20.39:651][ 54]LogWorld: Bringing up level for play took: 0.002599
+[2018.01.20-20.20.39:652][ 54]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.20.39:652][ 54]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.401
+[2018.01.20-20.20.39:661][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.20.39:662][ 54]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:677][ 55]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:685][ 56]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:694][ 57]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:702][ 58]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:710][ 59]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:719][ 60]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:727][ 61]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:735][ 62]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.39:744][ 63]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.20.51:273][252]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.21.08:754][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.08:784][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.09:845][ 60]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.21.09:862][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.09:863][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.21.09:863][ 60]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:21:09 AM)
+[2018.01.20-20.21.09:863][ 60]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.21.09:869][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006516s)
+[2018.01.20-20.21.09:870][ 60]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.21.09:870][ 60]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2018.01.20-20.21.09:870][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007519s)
+[2018.01.20-20.21.09:907][ 60]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.21.09:928][ 60]LogInit: FAudioDevice initialized.
+[2018.01.20-20.21.09:958][ 60]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.21.09:958][ 60]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.21.09:961][ 60]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.21.09
+[2018.01.20-20.21.09:961][ 60]LogWorld: Bringing up level for play took: 0.002842
+[2018.01.20-20.21.09:962][ 60]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.21.09:962][ 60]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.091
+[2018.01.20-20.21.09:965][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.09:966][ 60]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.09:982][ 61]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.09:992][ 62]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:001][ 63]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:009][ 64]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:017][ 65]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:025][ 66]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:034][ 67]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:042][ 68]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.10:050][ 69]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.13:943][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.13:977][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.14:817][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.20-20.21.15:302][613]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.21.18:634][997]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.21.18:651][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.18:651][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.21.18:651][997]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:21:18 AM)
+[2018.01.20-20.21.18:651][997]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.21.18:657][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006303s)
+[2018.01.20-20.21.18:658][997]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.21.18:658][997]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.01.20-20.21.18:658][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007171s)
+[2018.01.20-20.21.18:694][997]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.21.18:714][997]LogInit: FAudioDevice initialized.
+[2018.01.20-20.21.18:745][997]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.21.18:745][997]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.21.18:748][997]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.21.18
+[2018.01.20-20.21.18:748][997]LogWorld: Bringing up level for play took: 0.002399
+[2018.01.20-20.21.18:749][997]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.21.18:749][997]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.696
+[2018.01.20-20.21.18:758][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.18:758][997]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:775][998]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:790][999]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:805][  0]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:819][  1]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:832][  2]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:844][  3]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:857][  4]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:870][  5]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.18:885][  6]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.21:413][214]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.21.21:917][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.21:953][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.23:192][395]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.21.26:426][765]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.21.26:441][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.26:442][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.21.26:442][765]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:21:26 AM)
+[2018.01.20-20.21.26:442][765]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.21.26:449][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006770s)
+[2018.01.20-20.21.26:449][765]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.21.26:449][765]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.01.20-20.21.26:450][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007893s)
+[2018.01.20-20.21.26:485][765]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.21.26:506][765]LogInit: FAudioDevice initialized.
+[2018.01.20-20.21.26:543][765]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.21.26:543][765]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.21.26:546][765]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.21.26
+[2018.01.20-20.21.26:546][765]LogWorld: Bringing up level for play took: 0.002659
+[2018.01.20-20.21.26:546][765]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.21.26:547][765]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.494
+[2018.01.20-20.21.26:557][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.21.26:558][765]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:575][766]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:584][767]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:593][768]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:601][769]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:611][770]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:619][771]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:627][772]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:637][773]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.26:646][774]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.21.34:154][591]LogEditorViewport: Clicking on Actor (LMB): Canon_C (Canon)
+[2018.01.20-20.22.01:711][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.22.01:746][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.22.02:544][129]LogSavePackage: Save=166.20ms
+[2018.01.20-20.22.02:544][129]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/StartupMapF35274BC4CB357F991ECE1B7B2A7E961.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.01.20-20.22.02:548][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap
+[2018.01.20-20.23.06:780][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.20-20.23.55:789][912]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.01.20-20.23.56:411][912]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.20-20.23.56:471][912]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.20-20.23.56:532][913]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.20-20.24.22:827][358]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.24.22:853][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.22:854][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.24.22:854][358]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:24:22 AM)
+[2018.01.20-20.24.22:854][358]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.24.22:863][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008747s)
+[2018.01.20-20.24.22:863][358]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.24.22:864][358]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2018.01.20-20.24.22:864][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.009921s)
+[2018.01.20-20.24.22:908][358]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.24.22:932][358]LogInit: FAudioDevice initialized.
+[2018.01.20-20.24.22:963][358]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.24.22:963][358]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.24.22:966][358]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.24.22
+[2018.01.20-20.24.22:967][358]LogWorld: Bringing up level for play took: 0.002898
+[2018.01.20-20.24.22:967][358]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.24.22:968][358]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.914
+[2018.01.20-20.24.22:992][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.22:993][358]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:015][359]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:029][360]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:041][361]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:055][362]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:069][363]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:082][364]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:096][365]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:109][366]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.23:123][367]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.39:237][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.39:274][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.55:851][ 34]BlueprintLog: New page: Compile GingerBreadPiece
+[2018.01.20-20.24.58:337][ 77]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.24.58:360][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.58:360][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.24.58:360][ 77]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:24:58 AM)
+[2018.01.20-20.24.58:360][ 77]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.24.58:366][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006052s)
+[2018.01.20-20.24.58:367][ 77]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.24.58:367][ 77]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2018.01.20-20.24.58:367][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007037s)
+[2018.01.20-20.24.58:408][ 77]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.24.58:430][ 77]LogInit: FAudioDevice initialized.
+[2018.01.20-20.24.58:465][ 77]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.24.58:465][ 77]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.24.58:468][ 77]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.24.58
+[2018.01.20-20.24.58:468][ 77]LogWorld: Bringing up level for play took: 0.002639
+[2018.01.20-20.24.58:469][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.24.58:469][ 77]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.416
+[2018.01.20-20.24.58:472][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.24.58:473][ 77]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:528][ 78]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:556][ 79]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:568][ 80]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:580][ 81]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:591][ 82]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:603][ 83]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:615][ 84]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:626][ 85]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.24.58:640][ 86]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.11:059][103]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.11:094][103]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.27:899][408]BlueprintLog: New page: Compile BP_PickupCube1
+[2018.01.20-20.25.29:755][540]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.25.29:775][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.29:776][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.25.29:776][540]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:25:29 AM)
+[2018.01.20-20.25.29:776][540]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.25.29:783][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007437s)
+[2018.01.20-20.25.29:784][540]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.25.29:784][540]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.01.20-20.25.29:784][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.008442s)
+[2018.01.20-20.25.29:827][540]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.25.29:848][540]LogInit: FAudioDevice initialized.
+[2018.01.20-20.25.29:881][540]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.25.29:881][540]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.25.29:884][540]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.25.29
+[2018.01.20-20.25.29:884][540]LogWorld: Bringing up level for play took: 0.002638
+[2018.01.20-20.25.29:885][540]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.25.29:885][540]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.168
+[2018.01.20-20.25.29:888][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.29:889][540]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:910][541]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:923][542]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:935][543]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:948][544]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:961][545]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:973][546]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:985][547]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.29:998][548]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.30:010][549]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.35:417][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.35:454][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.38:651][233]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.25.38:671][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.38:671][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.25.38:671][233]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:25:38 AM)
+[2018.01.20-20.25.38:671][233]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.25.38:678][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006106s)
+[2018.01.20-20.25.38:678][233]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.25.38:678][233]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.01.20-20.25.38:678][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.006993s)
+[2018.01.20-20.25.38:723][233]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.25.38:745][233]LogInit: FAudioDevice initialized.
+[2018.01.20-20.25.38:779][233]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.25.38:779][233]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.25.38:782][233]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.25.38
+[2018.01.20-20.25.38:782][233]LogWorld: Bringing up level for play took: 0.002627
+[2018.01.20-20.25.38:783][233]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.25.38:783][233]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.729
+[2018.01.20-20.25.38:786][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.38:787][233]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:808][234]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:823][235]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:839][236]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:853][237]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:866][238]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:881][239]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:894][240]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:908][241]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.38:921][242]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.25.49:061][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.49:096][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.25.58:444][695]BlueprintLog: New page: Compile BP_PickupCube1
+[2018.01.20-20.26.00:168][814]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.26.00:190][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.00:191][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.26.00:191][814]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:26:00 AM)
+[2018.01.20-20.26.00:191][814]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.26.00:199][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007769s)
+[2018.01.20-20.26.00:199][814]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.26.00:199][814]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2018.01.20-20.26.00:200][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.008841s)
+[2018.01.20-20.26.00:244][814]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.26.00:266][814]LogInit: FAudioDevice initialized.
+[2018.01.20-20.26.00:299][814]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.26.00:299][814]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.26.00:302][814]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.26.00
+[2018.01.20-20.26.00:302][814]LogWorld: Bringing up level for play took: 0.002731
+[2018.01.20-20.26.00:303][814]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.26.00:303][814]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.25
+[2018.01.20-20.26.00:306][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.00:307][814]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:327][815]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:341][816]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:353][817]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:365][818]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:377][819]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:390][820]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:402][821]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:413][822]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.00:425][823]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.05:685][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.05:724][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.11:366][696]BlueprintLog: New page: Compile BP_PickupCube1
+[2018.01.20-20.26.13:051][815]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.26.13:072][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.13:073][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.26.13:073][815]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:26:13 AM)
+[2018.01.20-20.26.13:073][815]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.26.13:079][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006407s)
+[2018.01.20-20.26.13:080][815]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.26.13:080][815]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2018.01.20-20.26.13:080][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007405s)
+[2018.01.20-20.26.13:122][815]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.26.13:143][815]LogInit: FAudioDevice initialized.
+[2018.01.20-20.26.13:174][815]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.26.13:174][815]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.26.13:177][815]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.26.13
+[2018.01.20-20.26.13:177][815]LogWorld: Bringing up level for play took: 0.002460
+[2018.01.20-20.26.13:177][815]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.26.13:178][815]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.876
+[2018.01.20-20.26.13:181][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.13:182][815]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:202][816]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:214][817]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:226][818]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:239][819]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:251][820]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:263][821]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:276][822]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:289][823]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.13:301][824]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.15:435][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.15:471][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.28:382][ 23]BlueprintLog: New page: Compile BP_PickupCube1
+[2018.01.20-20.26.29:784][117]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.26.29:805][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.29:805][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.26.29:805][117]PIE: New page: SIE session: StartupMap (Jan 20, 2018, 10:26:29 AM)
+[2018.01.20-20.26.29:805][117]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2018.01.20-20.26.29:812][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006431s)
+[2018.01.20-20.26.29:812][117]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.26.29:812][117]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.01.20-20.26.29:813][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007541s)
+[2018.01.20-20.26.29:857][117]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.26.29:878][117]LogInit: FAudioDevice initialized.
+[2018.01.20-20.26.29:911][117]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.26.29:911][117]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.26.29:914][117]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2018.01.20-15.26.29
+[2018.01.20-20.26.29:914][117]LogWorld: Bringing up level for play took: 0.002481
+[2018.01.20-20.26.29:914][117]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.26.29:915][117]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.139
+[2018.01.20-20.26.29:918][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.29:918][117]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.29:939][118]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.29:952][119]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.29:964][120]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.29:976][121]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.29:988][122]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.30:000][123]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.30:012][124]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.30:024][125]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.30:036][126]LogBlueprintUserMessages: [Spawner_29] Spwned Baked Good
+[2018.01.20-20.26.43:658][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.43:691][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2018.01.20-20.26.51:264][928]LogSavePackage: Save=205.42ms
+[2018.01.20-20.26.51:264][928]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/StartupMap15600AB8417901F88C6309924EB081B6.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.01.20-20.26.51:269][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap
+[2018.01.20-20.26.55:638][316]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece19)
+[2018.01.20-20.27.33:163][129]Cmd: EDIT COPY
+[2018.01.20-20.27.33:331][142]Cmd: EDIT COPY
+[2018.01.20-20.27.33:462][152]Cmd: EDIT COPY
+[2018.01.20-20.27.35:691][305]LogSavePackage: Save=205.97ms
+[2018.01.20-20.27.35:691][305]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/StartupMap65D0E4F14E2CA52BE40551B1CA218B90.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2018.01.20-20.27.35:695][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap
+[2018.01.20-20.27.36:229][335]LogSavePackage: Save=21.28ms
+[2018.01.20-20.27.36:229][335]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/GingerBreadPieceD462BF2D402A7D9AB7D75A863DF30F5C.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPiece.uasset'
+[2018.01.20-20.27.36:232][335]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPiece.uasset
+[2018.01.20-20.27.36:298][335]LogSavePackage: Save=34.79ms
+[2018.01.20-20.27.36:298][335]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/BP_PickupCube1583C355641335B3766D8F282A24933A7.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BP_PickupCube1.uasset'
+[2018.01.20-20.27.36:302][335]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BP_PickupCube1.uasset
+[2018.01.20-20.27.38:035][460]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.27.38:063][460]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.27.38:063][460]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.38:063][460]LoadErrors: New page: Loading map: VR_Test.umap
+[2018.01.20-20.27.38:065][460]MapCheck: New page: Map Check
+[2018.01.20-20.27.38:065][460]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.38:091][460]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.27.38:138][460]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.27.38:208][460]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.59ms to complete.
+[2018.01.20-20.27.38:208][460]LogFileHelpers: Loading map 'VR_Test' took 0.147
+[2018.01.20-20.27.51:085][535]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.27.51:119][535]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.27.51:119][535]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.51:120][535]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.01.20-20.27.51:121][535]MapCheck: New page: Map Check
+[2018.01.20-20.27.51:121][535]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.51:153][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.27.51:202][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.27.51:266][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.961ms to complete.
+[2018.01.20-20.27.51:266][535]LogFileHelpers: Loading map 'StartupMap' took 0.148
+[2018.01.20-20.27.52:192][616]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece19)
+[2018.01.20-20.27.52:798][661]Cmd: EDIT COPY
+[2018.01.20-20.27.52:973][674]Cmd: EDIT COPY
+[2018.01.20-20.27.53:123][685]Cmd: EDIT COPY
+[2018.01.20-20.27.53:295][697]Cmd: EDIT COPY
+[2018.01.20-20.27.53:436][707]Cmd: EDIT COPY
+[2018.01.20-20.27.55:926][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.20-20.27.56:898][967]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.27.56:925][967]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.27.56:925][967]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.56:925][967]LoadErrors: New page: Loading map: VR_Test.umap
+[2018.01.20-20.27.56:927][967]MapCheck: New page: Map Check
+[2018.01.20-20.27.56:927][967]LightingResults: New page: Lighting Build
+[2018.01.20-20.27.56:951][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.27.56:999][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.27.57:064][967]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.079ms to complete.
+[2018.01.20-20.27.57:064][967]LogFileHelpers: Loading map 'VR_Test' took 0.141
+[2018.01.20-20.27.57:764][ 21]Cmd: EDIT PASTE
+[2018.01.20-20.28.04:666][570]Cmd: TRANSACTION UNDO
+[2018.01.20-20.28.04:666][570]LogEditorTransaction: Undo Paste
+[2018.01.20-20.28.09:984][955]LogAIModule: Creating AISystem for world StartupMap
+[2018.01.20-20.28.10:014][955]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.28.10:014][955]LightingResults: New page: Lighting Build
+[2018.01.20-20.28.10:015][955]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.01.20-20.28.10:016][955]MapCheck: New page: Map Check
+[2018.01.20-20.28.10:016][955]LightingResults: New page: Lighting Build
+[2018.01.20-20.28.10:047][955]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.28.10:095][955]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.28.10:161][955]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.452ms to complete.
+[2018.01.20-20.28.10:161][955]LogFileHelpers: Loading map 'StartupMap' took 0.148
+[2018.01.20-20.28.20:633][870]Cmd: EDIT COPY
+[2018.01.20-20.28.20:807][884]Cmd: EDIT COPY
+[2018.01.20-20.28.20:962][896]Cmd: EDIT COPY
+[2018.01.20-20.28.21:108][906]Cmd: EDIT COPY
+[2018.01.20-20.28.21:262][917]Cmd: EDIT COPY
+[2018.01.20-20.28.21:422][929]Cmd: EDIT COPY
+[2018.01.20-20.28.22:134][986]Cmd: EDIT COPY
+[2018.01.20-20.28.22:303][998]Cmd: EDIT COPY
+[2018.01.20-20.28.22:446][  8]Cmd: EDIT COPY
+[2018.01.20-20.28.22:934][ 43]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.28.22:962][ 43]Cmd: MAP LOAD FILE="../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.20-20.28.22:962][ 43]LightingResults: New page: Lighting Build
+[2018.01.20-20.28.22:963][ 43]LoadErrors: New page: Loading map: VR_Test.umap
+[2018.01.20-20.28.22:964][ 43]MapCheck: New page: Map Check
+[2018.01.20-20.28.22:964][ 43]LightingResults: New page: Lighting Build
+[2018.01.20-20.28.22:988][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.20-20.28.23:036][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.20-20.28.23:098][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.119ms to complete.
+[2018.01.20-20.28.23:099][ 43]LogFileHelpers: Loading map 'VR_Test' took 0.138
+[2018.01.20-20.28.24:762][187]Cmd: EDIT PASTE
+[2018.01.20-20.28.43:426][611]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.01.20-20.28.47:073][892]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.20-20.28.47:319][908]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece31)
+[2018.01.20-20.28.55:519][603]Cmd: TRANSACTION UNDO
+[2018.01.20-20.28.55:519][603]LogEditorTransaction: Undo Delete selection
+[2018.01.20-20.29.02:339][214]Cmd: TRANSACTION UNDO
+[2018.01.20-20.29.02:339][214]LogEditorTransaction: Undo Delete selection
+[2018.01.20-20.29.12:356][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:356][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:357][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:357][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:358][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:358][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:359][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:359][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:360][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:360][  9]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.29.12:360][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:361][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:361][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:362][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:362][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:362][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:363][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:363][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:364][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:364][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:364][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:365][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:365][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:366][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:366][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:366][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:367][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:367][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:367][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:368][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:368][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:369][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:369][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:369][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:370][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:370][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:370][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:371][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:371][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:372][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:372][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:372][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:373][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:373][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:374][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:374][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:374][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:375][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:375][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:376][  9]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.29.12:399][  9]LogEditorActor: Deleted 50 Actors (0.056 secs)
+[2018.01.20-20.29.22:864][972]Cmd: EDIT PASTE
+[2018.01.20-20.29.32:242][676]Cmd: TRANSACTION UNDO
+[2018.01.20-20.29.32:242][676]LogEditorTransaction: Undo Scale Actors
+[2018.01.20-20.29.39:639][241]Cmd: TRANSACTION UNDO
+[2018.01.20-20.29.39:639][241]LogEditorTransaction: Undo Scale Actors
+[2018.01.20-20.30.52:508][713]LogSavePackage: Save=20.65ms
+[2018.01.20-20.30.52:508][713]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/GingerBreadPieceTopA66AD50E4EACCF2B21A38C9F7E3374F5.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPieceTop.uasset'
+[2018.01.20-20.30.52:513][713]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPieceTop.uasset
+[2018.01.20-20.30.57:797][ 99]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece19)
+[2018.01.20-20.31.26:815][387]Cmd: MODE GRID=0
+[2018.01.20-20.31.37:500][230]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece4)
+[2018.01.20-20.31.38:843][335]Cmd: TRANSACTION UNDO
+[2018.01.20-20.31.38:843][335]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.20-20.31.39:175][354]Cmd: TRANSACTION UNDO
+[2018.01.20-20.31.39:175][354]LogEditorTransaction: Undo Move Actors
+[2018.01.20-20.31.39:530][378]Cmd: TRANSACTION UNDO
+[2018.01.20-20.31.39:531][378]LogEditorTransaction: Undo Move Actors
+[2018.01.20-20.31.39:977][412]Cmd: TRANSACTION UNDO
+[2018.01.20-20.31.39:977][412]LogEditorTransaction: Undo Move Actors
+[2018.01.20-20.31.40:336][439]Cmd: TRANSACTION UNDO
+[2018.01.20-20.31.40:336][439]LogEditorTransaction: Undo Move Actors
+[2018.01.20-20.32.08:564][617]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece4)
+[2018.01.20-20.32.39:745][ 37]Cmd: EDIT COPY
+[2018.01.20-20.32.41:756][199]Cmd: EDIT PASTE
+[2018.01.20-20.32.54:725][214]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.32.54:726][214]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.32.54:726][214]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.32.54:727][214]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.32.54:727][214]LogEditorActor: Deleted Actor: GingerBreadPieceTop_C
+[2018.01.20-20.32.54:756][214]LogEditorActor: Deleted 5 Actors (0.035 secs)
+[2018.01.20-20.32.58:291][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:292][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:292][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:292][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:293][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:293][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:294][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:294][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:295][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:295][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:296][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:296][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:296][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:297][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:297][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:298][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:298][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:299][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:299][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:299][497]LogEditorActor: Deleted Actor: GingerBreadPiece_C
+[2018.01.20-20.32.58:321][497]LogEditorActor: Deleted 20 Actors (0.037 secs)
+[2018.01.20-20.33.06:157][188]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece2)
+[2018.01.20-20.33.14:449][835]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece4)
+[2018.01.20-20.33.20:348][297]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece3)
+[2018.01.20-20.33.26:649][780]Cmd: MODE GRID=1
+[2018.01.20-20.33.27:280][827]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece)
+[2018.01.20-20.33.42:603][ 16]Cmd: MODE GRID=0
+[2018.01.20-20.33.51:142][684]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPiece_C (GingerBreadPiece2)
+[2018.01.20-20.33.53:694][884]LogEditorViewport: Clicking on Actor (LMB): GingerBreadPieceTop_C (GingerBreadPieceTop)
+[2018.01.20-20.34.03:995][664]Cmd: EDIT COPY
+[2018.01.20-20.34.04:183][678]Cmd: EDIT COPY
+[2018.01.20-20.34.04:341][690]Cmd: EDIT COPY
+[2018.01.20-20.34.04:482][701]Cmd: EDIT COPY
+[2018.01.20-20.34.08:933][ 56]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.34.08:954][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.08:954][ 56]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.20-20.34.08:956][ 56]LogPlayLevel: [PlayLevel] Compiling GingerBreadPiece before play...
+[2018.01.20-20.34.09:599][ 56]LogPlayLevel: [PlayLevel] Compiling GingerBreadPieceTop before play...
+[2018.01.20-20.34.10:000][ 56]LogPlayLevel: PlayLevel: Blueprint regeneration took 1046 ms (2 blueprints)
+[2018.01.20-20.34.10:000][ 56]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:34:10 AM)
+[2018.01.20-20.34.10:000][ 56]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.34.10:007][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006012s)
+[2018.01.20-20.34.10:007][ 56]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.34.10:007][ 56]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.01.20-20.34.10:008][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.007057s)
+[2018.01.20-20.34.10:053][ 56]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.34.10:076][ 56]LogInit: FAudioDevice initialized.
+[2018.01.20-20.34.10:112][ 56]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.34.10:112][ 56]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.34.10:114][ 56]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.34.10
+[2018.01.20-20.34.10:114][ 56]LogWorld: Bringing up level for play took: 0.001558
+[2018.01.20-20.34.10:115][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.34.10:118][ 56]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test 2.064
+[2018.01.20-20.34.10:126][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.11:076][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.11:112][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.11:701][179]Cmd: EDIT PASTE
+[2018.01.20-20.34.14:136][367]Cmd: MODE GRID=1
+[2018.01.20-20.34.28:099][475]Cmd: EDIT COPY
+[2018.01.20-20.34.28:402][498]Cmd: EDIT PASTE
+[2018.01.20-20.34.34:614][992]Cmd: EDIT PASTE
+[2018.01.20-20.34.37:370][202]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.34.37:396][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.37:396][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.34.37:396][202]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:34:37 AM)
+[2018.01.20-20.34.37:396][202]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.34.37:403][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006443s)
+[2018.01.20-20.34.37:403][202]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.34.37:404][202]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.01.20-20.34.37:404][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.007377s)
+[2018.01.20-20.34.37:450][202]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.34.37:470][202]LogInit: FAudioDevice initialized.
+[2018.01.20-20.34.37:505][202]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.34.37:505][202]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.34.37:507][202]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.34.37
+[2018.01.20-20.34.37:507][202]LogWorld: Bringing up level for play took: 0.002030
+[2018.01.20-20.34.37:508][202]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.34.37:510][202]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.543
+[2018.01.20-20.34.37:518][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.42:617][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.34.42:655][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.03:922][235]LogTemp: Repeating last play command: Simulate
+[2018.01.20-20.35.03:942][235]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.03:943][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.35.03:943][235]PIE: New page: SIE session: VR_Test (Jan 20, 2018, 10:35:03 AM)
+[2018.01.20-20.35.03:943][235]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.35.03:950][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006826s)
+[2018.01.20-20.35.03:950][235]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.35.03:950][235]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.01.20-20.35.03:951][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.007952s)
+[2018.01.20-20.35.03:998][235]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.35.04:019][235]LogInit: FAudioDevice initialized.
+[2018.01.20-20.35.04:054][235]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.35.04:054][235]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.35.04:056][235]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.35.04
+[2018.01.20-20.35.04:056][235]LogWorld: Bringing up level for play took: 0.001943
+[2018.01.20-20.35.04:057][235]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.20-20.35.04:060][235]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test 0.006
+[2018.01.20-20.35.04:068][235]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.14:092][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.14:130][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.21:793][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.21:793][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.20-20.35.21:794][686]PIE: New page: PIE session: VR_Test (Jan 20, 2018, 10:35:21 AM)
+[2018.01.20-20.35.21:794][686]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test
+[2018.01.20-20.35.21:800][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006141s)
+[2018.01.20-20.35.21:800][686]LogAIModule: Creating AISystem for world VR_Test
+[2018.01.20-20.35.21:801][686]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.01.20-20.35.21:801][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/VR_Test.VR_Test to /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test (0.007120s)
+[2018.01.20-20.35.21:848][686]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.20-20.35.21:869][686]LogInit: FAudioDevice initialized.
+[2018.01.20-20.35.21:991][686]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.01.20-20.35.21:991][686]LogLoad: Game class is 'GameModeBase'
+[2018.01.20-20.35.21:994][686]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test.VR_Test up for play (max tick rate 0) at 2018.01.20-15.35.21
+[2018.01.20-20.35.21:994][686]LogWorld: Bringing up level for play took: 0.002012
+[2018.01.20-20.35.22:007][686]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_VR_Test -0.047
+[2018.01.20-20.35.22:007][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.35.22:063][687]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 26 NumSamples 1 (Frame:1).
+[2018.01.20-20.37.56:997][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.37.57:192][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test' with GeneratedClass '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/VR_Test.VR_Test:PersistentLevel.VR_Test'
+[2018.01.20-20.39.00:589][841]LogSavePackage: Save=193.67ms
+[2018.01.20-20.39.00:589][841]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_TestB156C6024FFD8C4F2CF1519734E5917F.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap'
+[2018.01.20-20.39.00:594][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap
+[2018.01.20-20.39.00:913][841]LogSavePackage: Save=263.46ms
+[2018.01.20-20.39.00:913][841]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_Test_BuiltData635A2DD144B02B97CB9BFE94442C70EE.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset'
+[2018.01.20-20.39.00:916][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset
+[2018.01.20-20.39.01:252][846]LogSavePackage: Save=197.58ms
+[2018.01.20-20.39.01:252][846]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_TestFDBCF2A048EDC552668663B480C802C0.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap'
+[2018.01.20-20.39.01:256][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test.umap
+[2018.01.20-20.39.01:470][846]LogSavePackage: Save=174.61ms
+[2018.01.20-20.39.01:470][846]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/VR_Test_BuiltData557806244611176610CC5086B3030384.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset'
+[2018.01.20-20.39.01:473][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Maps/VR_Test_BuiltData.uasset
+[2018.01.20-20.39.01:754][860]LogSavePackage: Save=23.21ms
+[2018.01.20-20.39.01:754][860]LogSavePackage: Moving '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Saved/GingerBreadPieceB799E8F34177C7BCE5CC2BA48D6F9796.tmp' to '../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPiece.uasset'
+[2018.01.20-20.39.01:758][860]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/SIG/Desktop/JonLee/UntitledVRTowerGame/MyProject/Content/VirtualRealityBP/Blueprints/BakedItems/GingerBreadPiece.uasset
